@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Boogaloo&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Kalam&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background-color: #DC93AF;
+    }
+
+    .headerone {
+      border-width: 500px;
+      border-radius: 100px;
+      font-family: 'Boogaloo', cursive;
+      font-size: 70px;
+      color: white;
+      background-color: #B85C80;
+    }
+
+    .headertwo {
+      border-width: 150px;
+      border-radius: 100px;
+      font-family: 'Kalam', cursive;
+      font-size: 18px;
+      color: white;
+      background-color: #B85C80;
+    }
+
+    .img {
+      width: 200px;
+      font-family: 'Kalam', cursive;
+      color: white;
+    }
+
+    #right {
+      float: right;
+      border-width: 500px;
+      font-family: 'Boogaloo', cursive;
+      font-size: 25px;
+      color: white;
+      background-color: #CD88AF;
+      border-radius: 15px;
+    }
+
+    .mainbod {
+      font-family: 'Boogaloo', cursive;
+      color: white;
+      background-color:
+
+    .text {
+      font-size: 20px;
+      font-family: 'Kalam', cursive;
+  </style>
+
+  <div class=headerone>
+    <center>VEGELATO</center>
+  </div>
+
+<br><div class="headertwo">
+   <center>Your one stop shop for fresh vegan ice cream, with a variety of flavours to choose from.</center>
+</div>
+
+<br><div class=mainbod>
+   <center>It was July 21, 1969, and Neil Armstrong awoke with a start. It was the day he would become the first human being to ever walk on the moon. The journey had begun several days earlier, when on July 16th, the Apollo 11 launched from Earth headed into outer space. On board with Neil Armstrong were Michael Collins and Buzz Aldrin. The crew landed on the moon in the Sea of Tranquility a day before the actual walk. Upon Neil’s first step onto the moon’s surface, he declared, “That’s one small step for man, one giant leap for mankind.” It sure was!</center>
+</div>
+
+<center><div style=
+"width:image width px; font-size: 20%;" class=img>
+<img src="https://i.imgur.com/5DmXU7l.png"
+alt="alternate text" width="200" height="300"
+style="padding-bottom:0.5em;" />
+<center><i>Image by PNG Tree.</i></center></div></center>
+
+
+<br><div class=mainbod>
+   <center>Meow meow meow meow.</center>
+</div>
+</head>
